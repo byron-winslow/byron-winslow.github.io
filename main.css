@@ -1,3 +1,87 @@
-body {
-    background: #55332B
+body.homepage {
+    background: #0F1626}
+
+p.homepage {
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #AB987A
 }
+ul{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #AB987A
+}
+h1{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #AB987A
+}
+h2{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #AB987A
+}
+h3{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #AB987A
+}
+
+body.page2{
+	background: #FC4A1A
+}
+h1.page2{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #0F1626
+}
+li.page2{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #0F1626
+}
+p.page2{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 20px;
+	color: #0F1626
+}
+
+body.page3{
+	background: #AB987A
+}
+h1.page3{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #F5F5F5
+}
+title.page3{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #F5F5F5
+}
+table.page3{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #F5F5F5
+}
+body.page4{
+	background: #F5F5F5
+}
+h1.page4{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #FC4A1A
+}
+table.page4{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #FC4A1A
+}
+}
+li.page4{
+	font-family: 'Encode Sans Expanded', sans-serif;
+	font-size: 25px;
+	color: #FC4A1A
+}
+
+

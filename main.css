@@ -8,14 +8,18 @@ p.homepage {
 	color: #F5F5F5
 }
 
-
 a{
 	text-decoration: inherit;
-	
+	color:#F5F5F5;
+
 }
+a:hover {
+	color:#54F19D;
+}
+
 ul{
 	font-family: "proxima nova", sans-serif;
-	font-color: #F5F5F5;
+	color: #F5F5F5;
 	font-size: 30px;
 	color: #F5F5F5
 	font-weight: 100;
@@ -30,8 +34,6 @@ li{
 	border-radius: 50px;
 	padding: 10px 80px;
 	text-decoration: none;	
-	
-
 }
 
 h1{
@@ -40,15 +42,9 @@ h1{
 	color: #F5F5F5
 }
 h1{
-	margin-left: 250px;
+	margin-left: 500px;
 }
-h2{
-	font-family: "proxima nova", sans-serif;
-	color: #F5F5F5
-}
-h2{
-	margin-left: 337px;
-}
+
 h3{
 	font-family: "proxima nova", sans-serif;
 	font-size: 25px;
@@ -64,11 +60,11 @@ h1.page2{
 	color: #F5F5F5
 }
 h1.page2{
-	margin-left: 250px;
+	margin-left: 500px;
 }
 li.page2{
 	font-family: "proxima nova", sans-serif;
-	font-size: 25px;
+	font-size: 30px;
 	color: #F5F5F5
 }
 p.page2{
@@ -88,7 +84,7 @@ h1.page3{
 	color: #F5F5F5
 }
 h1.page3{
-	margin-left: 250px;
+	margin-left: 500px;
 }
 title.page3{
 	font-family: "proxima nova", sans-serif;
@@ -118,7 +114,7 @@ th.page3{
 }
 li.page3{
 	font-family: "proxima nova", sans-serif;
-	font-size: 25px;
+	font-size: 30px;
 	color: #F5F5F5
 
 }
@@ -131,7 +127,7 @@ h1.page4{
 	color: #F5F5F5
 }
 h1.page4{
-	margin-left: 250px;
+	margin-left: 500px;
 }
 p.page4{font-family: "proxima nova",sans-serif;
 	font-size: 25px;
@@ -145,7 +141,7 @@ table.page4{
 
 li.page4{
 	font-family: "proxima nova", sans-serif;
-	font-size: 25px;
+	font-size: 30px;
 	color: #F5F5F5
 }
 th.page4{
@@ -167,7 +163,7 @@ h1.page5{
 	color: #F5F5F5
 }
 h1.page5{
-	margin-left: 325px;
+	margin-left: 550px;
 }
 li.page5{
 	font-family: "proxima nova", sans-serif; 
@@ -180,7 +176,7 @@ p.page5{
 	color: #F5F5F5
 }
 th.page5{
-	padding: 50px
+	padding: 50px;
 }
 
 
